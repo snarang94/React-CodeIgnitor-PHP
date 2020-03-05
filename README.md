@@ -87,4 +87,5 @@ http://localhost/backend1/api/deletePlayer
 ## Authors
 
 * **Shubham Narang** 
+* **Sh848786@gmail.com** 
 
