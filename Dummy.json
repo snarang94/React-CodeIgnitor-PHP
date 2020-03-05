@@ -1,0 +1,15 @@
+{
+  "Players": [
+    
+    {
+      "Name" : "Shubham",
+      "Age" : "20",
+      "Location" :{
+	    "City" : "Halifax",
+		  "Province" : "Nova Scotia",
+		  "Country" : "Canada"
+      }
+    }
+
+    ]
+}
