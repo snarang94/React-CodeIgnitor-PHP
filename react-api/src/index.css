@@ -1,0 +1,101 @@
+body {
+  background-color: #FFCC00;
+  padding: 20px;
+  margin: 0;
+}
+h1, h2, p, ul, li {
+  font-family: sans-serif;
+}
+ul.header li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+}
+ul.header {
+  background-color: #111;
+  padding: 0;
+}
+ul.header li a {
+  color: #FFF;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+}
+.content {
+  background-color: #FFF;
+  padding: 20px;
+}
+.content h2 {
+  padding: 0;
+  margin: 0;
+}
+.content li {
+  margin-bottom: 10px;
+}
+
+.active {
+  background-color: #0099FF;
+}
+
+.button1 {
+  padding: 10px 40px;
+  	text-align: center;
+}
+
+.awesome {
+  width: 30%;
+
+}
+
+.button1 {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  line-height: 10px;
+  text-decoration: none;
+  height:30px;
+  width:100%;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 12px;
+}
+
+
+#container {
+	width: 800px;
+	margin: auto;
+}
+table {
+	border-collapse: collapse;
+	width: 800px;
+	margin: 10px auto;
+}
+th, td {
+	border: 1px solid #ddd;
+	text-align: left;
+	padding: 8px;
+}
+tr:nth-child(even) {
+	background-color: #f2f2f2
+}
+tr:hover {
+	background-color: #ddd;
+}
+th {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: #4CAF50;
+	color: white;
+}
+
+input[type=text] {
+  background-color: white;
+  background-image: url('searchicon.png');
+  width: 100%;
+  background-position: 7px 4px;
+  background-repeat: no-repeat;
+  padding-left: 40px;
+}
