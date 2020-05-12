@@ -1,5 +1,4 @@
-# Kinduct Full-Stack Coding Challenge
-
+# React-CodeIgnitor-Sample
 
 
 ## Getting Started
